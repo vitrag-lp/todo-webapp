@@ -1,0 +1,12 @@
+.vs/ToDoApp.slnx/
+Domain/bin
+Domain/obj
+
+TodoApp.Application/bin
+TodoApp.Application/obj
+
+ToDoApp.Infrastructure/bin
+TodoApp.Infrastructure/obj
+
+TodoApp/bin
+TodoApp/obj
